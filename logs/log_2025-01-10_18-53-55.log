@@ -1,0 +1,44 @@
+
+-----
+Test: tests/test_buy_product.py::test_buy_product_1 (call)
+Start time: 2025-01-10 18:54:00.192858
+Start name method: authorization
+
+End time: 2025-01-10 18:54:01.801105
+End name method: authorization
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product_1 (call)
+Start time: 2025-01-10 18:54:02.104478
+Start name method: client_infromation
+
+End time: 2025-01-10 18:54:02.482564
+End name method: client_infromation
+URL: https://www.saucedemo.com/checkout-step-two.html
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product_1 (call)
+Start time: 2025-01-10 18:54:02.483334
+Start name method: payment
+
+End time: 2025-01-10 18:54:02.600458
+End name method: payment
+URL: https://www.saucedemo.com/checkout-complete.html
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product_1 (call)
+Start time: 2025-01-10 18:54:02.601202
+Start name method: finish
+
+End time: 2025-01-10 18:54:02.768805
+End name method: finish
+URL: https://www.saucedemo.com/checkout-complete.html
+
+-----
